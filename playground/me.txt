@@ -1,0 +1,5 @@
+{{#user}}
+Name: Syed Fouziya Thabassum
+Skills: HTML, CSS, JS, Next.js,node.js,sql,php,mysql,java,python,machine learning
+Email: fouziya0704@gmail.com
+{{/user}}
